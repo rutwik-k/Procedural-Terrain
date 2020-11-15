@@ -1,0 +1,11 @@
+#ifndef PLATFORM_OPTIONS_H
+#define PLATFORM_OPTIONS_H
+
+#define PROGRAM_TITLE "Terrain"
+#define PROGRAM_WIDTH 1280
+#define PROGRAM_HEIGHT 720
+
+#define PERMANENT_MEMORY_SIZE megabytes(512)
+#define FRAME_MEMORY_SIZE     megabytes(1)
+
+#endif //PLATFORM_OPTIONS_H
