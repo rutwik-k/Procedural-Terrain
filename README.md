@@ -1,1 +1,2 @@
-"# SoulsGame" 
+OpenGL Procedural Terrain
+This is a very simple procedural terrain generator. In order to get a different terrain, change the RANDOM_SEED define in "utility.cpp" to change the seed therefore generating a different terrain. It needs no external libraries, everything is written from scratch. Some parts of the code are not used because I have a generic base OpenGL project whenever I want to do some rendering.
